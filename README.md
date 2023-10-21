@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/3c/05/4a/3c054a94f84a8aa7fc2f7194237fc9ee.gif)](https://i.pinimg.com/originals/3c/05/4a/3c054a94f84a8aa7fc2f7194237fc9ee.gif)
 <h1 align="center">Hi 👋, I'm Bashir Aliyu</h1>
-<h3 align="center">Android Developer</h3>
+<h3 align="center">Web Developer</h3>
 <img align="right" alt="Android Hello" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbabashir&label=Profile%20views&color=0e75b6&style=flat" alt="abbabashir" /> </p>
@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/abbacodes" target="blank"><img src="https://img.shields.io/twitter/follow/abbacodes?logo=twitter&style=for-the-badge" alt="abbacodes" /></a> </p>
 
-- 🔭 I’m currently working on [grand entertainment](https://github.com/abbabashir/Grand-Entertainment)
+- 🔭 I’m currently working on [Professional growth](https://github.com/abbabashir/)
 
-- 🌱 I’m currently learning **Android kotlin, react-native**
+- 🌱 I’m currently learning **Javascript react, nodejs**
 
-- 💬 Ask me about **Android, react-native**
+- 💬 Ask me about **Web dev, react-native**
 
 - 📫 How to reach me **abbabashir516@gmail.com**
 
-- ⚡ Fun fact **I can be supper weird!**
+- ⚡ Fun fact **Loves challenges**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
